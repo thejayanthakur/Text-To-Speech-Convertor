@@ -12,7 +12,7 @@ The Text-to-Speech Converter is a web-based application that converts user-input
 
 3.Responsive Design: The website is fully responsive, working seamlessly across various devices such as desktops, tablets, and smartphones.
 
-**Technologies Used**
+**||Technologies Used||**
 
 
 **Frontend:**
