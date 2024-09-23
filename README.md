@@ -36,3 +36,6 @@ The Text-to-Speech Converter is a web-based application that converts user-input
 -style.css: The CSS file responsible for the website’s design and layout.
 -script.js: The JavaScript file containing the core logic for converting text to speech and handling user interactions.
 -README.md: A detailed overview of the project, including instructions for installation, usage, and contributing.
+
+
+![Screenshot 2024-09-24 001040](https://github.com/user-attachments/assets/9a6f1eb7-7499-4744-b638-d825def6342b)
