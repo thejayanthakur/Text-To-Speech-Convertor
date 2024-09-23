@@ -4,7 +4,7 @@
 
 The Text-to-Speech Converter is a web-based application that converts user-inputted text into natural-sounding speech. It leverages modern browser APIs or external TTS services to generate high-quality voice output. This project can be utilized by people with visual impairments, language learners, or anyone who wishes to have text content read aloud. The website is simple, intuitive, and accessible, providing a user-friendly interface for a seamless experience.
 
-**Features**
+**Features:**
 
 1.Real-Time Text-to-Speech Conversion: Converts user-inputted text into speech instantly with the click of a button.
 
@@ -31,6 +31,7 @@ The Text-to-Speech Converter is a web-based application that converts user-input
 -Additional hosting options include platforms like Netlify or Vercel for faster builds and automatic deployments from the GitHub repository.
 
 **Key Files in the Repository**
+
 -index.html: The main HTML file containing the structure of the web page.
 -style.css: The CSS file responsible for the website’s design and layout.
 -script.js: The JavaScript file containing the core logic for converting text to speech and handling user interactions.
